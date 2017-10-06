@@ -23,7 +23,7 @@ Aún siendo un código de conducta orientativo que se espera aplicar siempre que
 - 📩 Se considera **flood** el hecho de repetir contínuamente palabras, hacer *cadenas* de contenido multimedia o comandos (enviar muchas fotos o stickers seguidos), provocando molestias al grupo con contenido innecesario. Algunos grupos tienen configurado **Antiflood**, y si se detecta el caso, provocará la expulsión temporal del usuario en cuestión.
 - 🌍 Normalmente el usuario estará unido en los grupos cercanos a su ubicación, o que suela frecuentar. Si un usuario es avistado en varios grupos de diferentes ubicaciones a la vez, podría ser expulsado de todos ellos por sospechas de posibles trampas. Se entiende que si un usuario se va de vacaciones a otro lugar, no es necesario abandonar los grupos de su ubicación, y se valorará este motivo.
 - 🤐 Hay grupos que pueden tener configurado **AntiAFK**. Si el usuario entra al grupo y no saluda, será expulsado temporalmente, a fin de evitar tener usuarios inactivos, que no participen en el grupo. Así mismo, los administradores se reservan el derecho a realizar expulsiones no permanentes (kick) del grupo de forma periódica usando al **Profesor**, según si los miembros participan o no en la conversación del grupo.
-- Hasta las **23:30** de la noche solo se permiten mensajes relacionados con el juego, a partir de esa hora se pueden hacer **off-topic**.
+- Hasta las **23:00** de la noche solo se permiten mensajes relacionados con el juego, a partir de esa hora se pueden hacer **off-topic**.
 
 - ❓ El hecho de no haber leido las normas o el **CCE**, no implica que no pueda haber un aviso o sanción correspondiente.
 
