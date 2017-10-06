@@ -1,4 +1,4 @@
-# TCC-V1, versión Oak Color
+NORMAS TEAM MYSTIC - AZUL - POKEMON GO VALLADOLID
 
 ## Introducción
 El **Código de Conducta del Entrenador** (de ahora en adelante **CCE**), establece las normas generales que los usuarios deberán cumplir para poder entrar y participar en un grupo o chat.
@@ -23,6 +23,8 @@ Aún siendo un código de conducta orientativo que se espera aplicar siempre que
 - 📩 Se considera **flood** el hecho de repetir contínuamente palabras, hacer *cadenas* de contenido multimedia o comandos (enviar muchas fotos o stickers seguidos), provocando molestias al grupo con contenido innecesario. Algunos grupos tienen configurado **Antiflood**, y si se detecta el caso, provocará la expulsión temporal del usuario en cuestión.
 - 🌍 Normalmente el usuario estará unido en los grupos cercanos a su ubicación, o que suela frecuentar. Si un usuario es avistado en varios grupos de diferentes ubicaciones a la vez, podría ser expulsado de todos ellos por sospechas de posibles trampas. Se entiende que si un usuario se va de vacaciones a otro lugar, no es necesario abandonar los grupos de su ubicación, y se valorará este motivo.
 - 🤐 Hay grupos que pueden tener configurado **AntiAFK**. Si el usuario entra al grupo y no saluda, será expulsado temporalmente, a fin de evitar tener usuarios inactivos, que no participen en el grupo. Así mismo, los administradores se reservan el derecho a realizar expulsiones no permanentes (kick) del grupo de forma periódica usando al **Profesor**, según si los miembros participan o no en la conversación del grupo.
+- Hasta las **23:30** de la noche solo se permiten mensajes relacionados con el juego, a partir de esa hora se pueden hacer **off-topic**.
+
 - ❓ El hecho de no haber leido las normas o el **CCE**, no implica que no pueda haber un aviso o sanción correspondiente.
 
 ## Normas del Entrenador
@@ -39,3 +41,10 @@ Obviando la parte de comportamiento ético como personas, se detalla que jugar d
 Hay que tener en cuenta que **todos somos personas**, con vida social y trabajo. No todo el mundo tiene tiempo libre para leer todo lo que se escribe en el grupo, y en el caso de los administradores, esto suma aún más responsabilidad, llegando incluso al punto de que no siempre es posible enterarse de lo que ocurre.
 
 Así pues, en caso de que haya alguna discusión, una persona esté molestando, o se detecte a algún usuario que esté haciendo trampas, los usuarios que lo vean deberán mencionar a **@admin** en el grupo e informar del problema, a fin de que los **Administradores** del grupo sean notificados y puedan actuar lo más rápido posible en función del problema.
+
+## Radares
+Si una persona juega a **Pokémon GO**, y por una calle ve un Pokémon raro, normalmente avisará a un grupo o a sus amigos, para que en caso de que estén cerca, puedan ir a capturarlo. Avisar del avistamiento del Pokémon **no es ilegal**, porque los demás jugadores siguen teniendo que caminar hacia el lugar para poder capturar el Pokémon.
+
+Los radares hacen exactamente lo mismo, avisan de los Pokémon raros que hay. La única diferencia que aplica en este caso, es que el orígen de datos **no es ético**, ya que la información de la ubicación de los Pokémon, se ha obtenido de forma automática utilizando métodos no aprobados por **Pokémon GO**, a pesar de que no perjudican directamente a los usuarios.
+
+Teniendo esto en cuenta, los radares se consideran una *excepción* de las trampas, siempre y cuando no afecten a la jugabilidad de los usuarios.
